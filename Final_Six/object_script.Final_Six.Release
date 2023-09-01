@@ -1,0 +1,12 @@
+release/Board.o
+release/Evaluation.o
+release/MoveGenerator.o
+release/OpeningBook.o
+release/SearchEngine.o
+release/ThreatSearch.o
+release/TranspositionTable.o
+release/Type.o
+release/TypeSearch.o
+release/main.o
+release/widget.o
+release/moc_widget.o

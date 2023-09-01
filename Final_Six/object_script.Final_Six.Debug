@@ -1,0 +1,12 @@
+debug/Board.o
+debug/Evaluation.o
+debug/MoveGenerator.o
+debug/OpeningBook.o
+debug/SearchEngine.o
+debug/ThreatSearch.o
+debug/TranspositionTable.o
+debug/Type.o
+debug/TypeSearch.o
+debug/main.o
+debug/widget.o
+debug/moc_widget.o
